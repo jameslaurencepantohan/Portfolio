@@ -1,0 +1,105 @@
+img {
+    width: 100px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 20px;
+}
+
+body {
+    background-image: url(https://wallpapers.com/images/hd/1920x1080-black-umbu0b4mpbevx1sa.jpg);
+    
+}
+
+h1 {
+    color:#f8f9f9;
+    font-family:Sans-serif;
+    
+}
+
+.p1 {
+    font-weight: bold;
+    color:#e5e7e9;
+    font-family:Sans-serif;
+    margin-top: 75px;
+    margin-left: 300px;
+    font-size: 25px;
+}
+
+.p2 {
+    
+    color:#e5e7e9;
+    font-family:Sans-serif;
+    float: right;
+    margin-right: 25px;
+    margin-bottom: auto;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+
+
+}
+
+.p3 {
+    
+    color:#d7dbdd;
+    font-family:monospace;
+    float: right;
+    font-size: 70px;
+    margin-top: 200px;
+    margin-right: 75px;
+}
+
+.abth1 {
+    font-weight: bold;
+    color:#e5e7e9;
+    font-family:Sans-serif;
+    margin-top: 200px;
+    margin-left: 300px;
+    
+}
+
+.abtp1 {
+    
+    color:#d7dbdd;
+    font-family:monospace;
+    text-align: justify;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 300px;
+    
+}
+
+.abtp2 {
+    
+    color:#e5e7e9;
+    font-family:Sans-serif;
+    float: right;
+    margin-right: 25px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.button {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+    color: white;      
+}
+
+.cnth1 {
+    font-weight: bold;
+    color:#e5e7e9;
+    font-family:Sans-serif;
+    margin-top: 200px;
+    margin-left: 300px;
+    
+}
